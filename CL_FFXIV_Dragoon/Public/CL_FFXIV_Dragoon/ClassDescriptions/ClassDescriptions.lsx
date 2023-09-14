@@ -16,7 +16,7 @@
 					<attribute id="MustPrepareSpells" type="bool" value="false"/>
 					<attribute id="Name" type="FixedString" value="CL_Dragoon"/>
 					<attribute id="PrimaryAbility" type="uint8" value="1"/>
-					<attribute id="ProgressionTableUUID" type="guid" value=""/>
+					<attribute id="ProgressionTableUUID" type="guid" value="e81fd263-dda1-43e4-8d0f-2df0cec51a38"/>
 					<attribute id="SoundClassType" type="FixedString" value="Fighter"/>
 					<attribute id="SpellCastingAbility" type="uint8" value="5"/>
 					<attribute id="UUID" type="guid" value="3f75b52d-e371-4c64-b88c-ac331c42d91a"/>
