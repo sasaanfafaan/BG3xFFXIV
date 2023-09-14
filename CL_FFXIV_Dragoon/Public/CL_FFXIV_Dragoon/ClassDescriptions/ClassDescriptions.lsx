@@ -1,25 +1,27 @@
-                <node id="ClassDescription"> 
-                    <attribute id="BaseHp" type="int32" value="12"/>
-                    <attribute id="CanLearnSpells" type="bool" value="false"/>
-                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> 
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_DeathKnight"/> 
-                    <attribute id="Description" type="TranslatedString" handle="h8f688ae8g8104g4542g94cfge4d0b1d5318c" version="1"/> 
-                    <attribute id="DisplayName" type="TranslatedString" handle="h0ac042b8g9c9eg40f3g88dag83496ad4b8a8" version="1"/> 
-                    <attribute id="HpPerLevel" type="int32" value="7"/> 
-                    <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="false"/> 
-                    <attribute id="Name" type="FixedString" value="DeathKnight"/> 
-                    <attribute id="PrimaryAbility" type="uint8" value="3"/> 
-                    <attribute id="ProgressionTableUUID" type="guid" value="29b323b1-d1fa-4882-a8f3-d4cb0ad6c158"/> 
-                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/> 
-                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="UUID" type="guid" value="52296c38-fbb5-4e3a-a728-0420884ed152"/> 
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c7bdcdf2-15e7-456e-adf1-21dda3172e18"/> 
-                        </node>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/> 
-                        </node>
-                    </children>
-                </node>
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+<version major="1" minor="0" revision="0" build="1"/>
+    <region id="ClassDescription">
+        <node id="root">
+          <children>
+     	       <node id="ClassDescription">
+					<attribute id="BaseHp" type="int32" value="10"/>
+					<attribute id="CanLearnSpells" type="bool" value="false"/>
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Dragoon"/>
+					<attribute id="Description" type="TranslatedString" handle="h1dbf80d8g314dg4cd4g9288g245a7c9d6836" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h362218fbgf897g4569gba5fg994c3560c61c" version="1"/>
+					<attribute id="HpPerLevel" type="int32" value="5"/>
+					<attribute id="LearningStrategy" type="uint8" value="1"/>
+					<attribute id="MustPrepareSpells" type="bool" value="false"/>
+					<attribute id="Name" type="FixedString" value="CL_Dragoon"/>
+					<attribute id="PrimaryAbility" type="uint8" value="1"/>
+					<attribute id="ProgressionTableUUID" type="guid" value=""/>
+					<attribute id="SoundClassType" type="FixedString" value="Fighter"/>
+					<attribute id="SpellCastingAbility" type="uint8" value="5"/>
+					<attribute id="UUID" type="guid" value="3f75b52d-e371-4c64-b88c-ac331c42d91a"/>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
