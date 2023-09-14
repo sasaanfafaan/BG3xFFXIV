@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-<version major="1" minor="0" revision="0" build="1"/>
-    <region id="Progressions">
-        <node id="root">
-          <children>
-            <node id="Progression"> 
-                <attribute id="AllowImprovement" type="bool" value="false"/> 
-                <attribute id="Boosts" type="LSString" value=""/> 
-                <attribute id="Level" type="uint8" value="1"/> 
-                <attribute id="Name" type="LSString" value="CL_Dragoon"/>
-                <attribute id="ProgressionType" type="uint8" value="0"/> 
-                <attribute id="Selectors" type="LSString" value=""/>
-                <attribute id="TableUUID" type="guid" value="e81fd263-dda1-43e4-8d0f-2df0cec51a38"/> 
-                <attribute id="UUID" type="guid" value="87cd2c5c-e243-4a91-99bd-c34ae8d834a7"/> 
-			</node>
-		</children>
-	</node>
-</region>
+  <version major="4" minor="0" revision="9" build="330"/>
+  <region id="Progressions">
+	<node id="root">
+		  <children>
+	 		   <node id="Progressions">
+					<attribute id="AllowImprovement" type="bool" value="false"/> 
+					<attribute id="Boosts" type="LSString" value=""/> 
+					<attribute id="Level" type="uint8" value="1"/> 
+					<attribute id="Name" type="LSString" value="CL_Dragoon"/>
+					<attribute id="ProgressionType" type="uint8" value="0"/> 
+					<attribute id="Selectors" type="LSString" value=""/>
+					<attribute id="TableUUID" type="guid" value="d09fb82a-e879-4d35-a4d0-5dd953bf8d17"/> 
+					<attribute id="UUID" type="guid" value="b9718cb7-8ed9-419c-bc55-38998b2d0810"/> 
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

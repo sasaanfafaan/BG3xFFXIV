@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-<version major="1" minor="0" revision="0" build="1"/>
-    <region id="ClassDescription">
-        <node id="root">
+  <version major="4" minor="0" revision="9" build="330"/>
+  <region id="ClassDescriptions">
+    <node id="root">
           <children>
      	       <node id="ClassDescription">
 					<attribute id="BaseHp" type="int32" value="10"/>
 					<attribute id="CanLearnSpells" type="bool" value="false"/>
 					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Dragoon"/>
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_DeathKnight"/>
 					<attribute id="Description" type="TranslatedString" handle="h1dbf80d8g314dg4cd4g9288g245a7c9d6836" version="1"/>
 					<attribute id="DisplayName" type="TranslatedString" handle="h362218fbgf897g4569gba5fg994c3560c61c" version="1"/>
 					<attribute id="HpPerLevel" type="int32" value="5"/>
@@ -16,10 +16,10 @@
 					<attribute id="MustPrepareSpells" type="bool" value="false"/>
 					<attribute id="Name" type="FixedString" value="CL_Dragoon"/>
 					<attribute id="PrimaryAbility" type="uint8" value="1"/>
-					<attribute id="ProgressionTableUUID" type="guid" value="e81fd263-dda1-43e4-8d0f-2df0cec51a38"/>
+					<attribute id="ProgressionTableUUID" type="guid" value="d09fb82a-e879-4d35-a4d0-5dd953bf8d17"/>
 					<attribute id="SoundClassType" type="FixedString" value="Fighter"/>
 					<attribute id="SpellCastingAbility" type="uint8" value="5"/>
-					<attribute id="UUID" type="guid" value="3f75b52d-e371-4c64-b88c-ac331c42d91a"/>
+					<attribute id="UUID" type="guid" value="dc12b631-365d-40da-989d-4335076e1f39"/>
 				</node>
 			</children>
 		</node>
