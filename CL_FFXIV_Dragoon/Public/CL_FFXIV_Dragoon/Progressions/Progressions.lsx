@@ -11,8 +11,8 @@
 					<attribute id="Name" type="LSString" value="CL_Dragoon"/>
 					<attribute id="ProgressionType" type="uint8" value="0"/> 
 					<attribute id="Selectors" type="LSString" value=""/>
-					<attribute id="TableUUID" type="guid" value="d09fb82a-e879-4d35-a4d0-5dd953bf8d17"/> 
-					<attribute id="UUID" type="guid" value="b9718cb7-8ed9-419c-bc55-38998b2d0810"/> 
+					<attribute id="TableUUID" type="guid" value="826362e5-7fbb-4961-a215-0805f3f98d41"/> 
+					<attribute id="UUID" type="guid" value="fdd4f7b5-12ae-48a9-9438-f61dbf5202d6"/> 
 				</node>
 			</children>
 		</node>
